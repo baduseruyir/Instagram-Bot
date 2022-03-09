@@ -118,11 +118,11 @@ async def stop(bot, cmd):
 					],
                     [
                         InlineKeyboardButton("🔗Source Code", url="https://github.com/baduseruyir/Instagram-Bot"),
-						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/subinps/Instagram-Bot")
+						InlineKeyboardButton("🧩Deploy Own Bot", url="https://heroku.com/deploy?template=https://github.com/baduseruyir/Instagram-Bot")
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+						InlineKeyboardButton("⚙️Update Channel", url="https://t.me/status_world_malayalam")
 
                     ]
 					
