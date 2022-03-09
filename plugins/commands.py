@@ -43,7 +43,7 @@ async def start(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/badu_ser'),
+						InlineKeyboardButton("👨🏼‍💻Developer", url="https://t.me/badu_ser'),
 						InlineKeyboardButton("🤖Other Bots", url="https://t.me/badu_ser")
 					],
                     [
@@ -113,8 +113,8 @@ async def stop(bot, cmd):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122")	
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/badu_ser'),
+						InlineKeyboardButton("🤖Other Bots", url="https://t.me/badu_ser")	
 					],
                     [
                         InlineKeyboardButton("🔗Source Code", url="https://github.com/baduseruyir/Instagram-Bot"),
